@@ -1,0 +1,45 @@
+ReportID,Description,Location,DateTime,Category,Severity,ReporterName,ReporterContact,Latitude,Longitude,ImageURL,ResponseStatus
+RPT0001,"Severe flooding on Main St; water entering ground-floor shops; several people trapped","Main St & 3rd Ave, Riverside",2026-07-15T09:23:00,Flooding,Critical,Jane Doe,+1234567890,34.052235,-118.243683,,pending
+RPT0002,"Streetlight pole down sparking near parked cars","Elm St near Oak Park",2026-07-14T21:10:00,Public Safety,High,John Smith,+1987654321,34.051200,-118.244000,,acknowledged
+RPT0003,"Neighborhood without electricity since last night; medical device at risk","2nd Ave Block B",2026-07-16T07:45:00,Power Outage,High,Maria Lopez,+1122334455,34.060000,-118.250000,,dispatched
+RPT0004,"Intermittent water supply; no water for 24 hours","Oakridge Apartments",2026-07-10T06:00:00,Water Supply,Medium,Ahmed Khan,+447700900123,34.070000,-118.260000,,pending
+RPT0005,"Large pothole causing vehicle damage and near-miss accidents","Pine Rd by School Entrance",2026-07-12T14:30:00,Road Damage,Medium,Sarah Lee,+14155552671,34.055000,-118.245500,,pending
+RPT0006,"Illegal dumping of hazardous waste near creek; strong odor","South Creek behind Industrial Park",2026-07-09T11:20:00,Waste Management,High,Carlos Ruiz,+5215551234567,34.040000,-118.250500,,acknowledged
+RPT0007,"Overflowing sewage causing contamination in residential yard","Maple Terrace",2026-07-13T08:55:00,Water Supply,Critical,Linda Park,+821055512345,34.045000,-118.248000,,dispatched
+RPT0008,"Minor flooding in basement of community center after heavy rain","Community Center Basement",2026-07-11T18:00:00,Flooding,Medium,Tom Baker,+61123456789,34.048000,-118.246000,,pending
+RPT0009,"Garbage collection missed for two weeks; rats observed","Northside Lane",2026-07-08T09:15:00,Waste Management,Medium,Aisha Mohammed,+971501234567,34.052500,-118.240000,,pending
+RPT0010,"Power surge followed by blackout; transformers smoking","Industrial Ave Substation",2026-07-17T02:40:00,Power Outage,Critical,Victor Chen,+8613800138000,34.058000,-118.255000,,dispatched
+RPT0011,"Water pipeline burst causing road collapse","Bridge St over River",2026-07-05T04:10:00,Road Damage,Critical,Emily Davis,+15551234567,34.047000,-118.247000,,dispatched
+RPT0012,"Suspicious unattended package at bus stop","Central Bus Stop",2026-07-18T16:05:00,Public Safety,High,Noah Wilson,+14085551234,34.054000,-118.242000,,acknowledged
+RPT0013,"Low-pressure water affecting upper floors only","Hilltop Towers",2026-07-03T12:00:00,Water Supply,Low,Olga Ivanova,+79261234567,34.062000,-118.258000,,pending
+RPT0014,"Tree fallen blocking two lanes after storm","Cedar Ave between 5th and 6th",2026-07-06T19:30:00,Road Damage,High,Mark Thompson,+447911123456,34.049500,-118.249500,,dispatched
+RPT0015,"Overflowing canal threatening nearby homes","East Canal near Meadow Park",2026-07-19T03:50:00,Flooding,Critical,Sophia Rossi,+393491234567,34.065000,-118.260500,,pending
+RPT0016,"Community recycling bins overflowing, attracting pests","Maple St & 8th",2026-07-02T10:20:00,Waste Management,Low,Rahul Patel,+919876543210,34.053000,-118.241000,,pending
+RPT0017,"Small localized blackout affecting traffic lights","7th St & Market Rd",2026-07-04T20:10:00,Power Outage,Medium,Grace Kim,+821012345678,34.056500,-118.243500,,acknowledged
+RPT0018,"Public restroom plumbing backed up; hygiene risk","Parkside Restrooms",2026-07-01T09:00:00,Water Supply,Medium,Leo Martins,+5511999999999,34.046500,-118.244500,,pending
+RPT0019,"Multiple potholes creating dangerous motorcycle conditions","Route 9 Bypass",2026-07-07T13:45:00,Road Damage,High,Anna Müller,+4915112345678,34.059000,-118.252000,,pending
+RPT0020,"Child fell into open storm drain after cover missing","Linden Ave near Playground",2026-07-14T15:25:00,Public Safety,Critical,Peter Novak,+420777123456,34.050000,-118.245000,,dispatched
+RPT0021,"Slow leak from fire hydrant causing slippery surface","Wilson Blvd outside Mall",2026-07-16T10:10:00,Water Supply,Low,Helena Garcia,+341234567890,34.057000,-118.246500,,pending
+RPT0022,"Illegal burning of waste producing heavy smoke","Old Quarry Road",2026-07-11T22:00:00,Public Safety,Medium,Mohammed Al-Farsi,+971523333333,34.041500,-118.249000,,acknowledged
+RPT0023,"Remote neighborhood without power; elderly residents affected","Pinecrest Hamlet",2026-07-12T03:15:00,Power Outage,High,Evelyn Park,+16475551234,34.063000,-118.265000,,dispatched
+RPT0024,"Small creek blocking pedestrian footpath after rains","Riverwalk Trail near Gate 2",2026-07-09T07:40:00,Flooding,Low,Oscar Herrera,+525512345678,34.043000,-118.241500,,pending
+RPT0025,"Sewage smell from manhole; residents vomiting","Sunset Row",2026-07-13T05:30:00,Water Supply,High,Isabella Moretti,+390612345678,34.051800,-118.242900,,acknowledged
+RPT0026,"Broken traffic light causing congestion and accidents","Main St & 10th",2026-07-10T18:45:00,Public Safety,High,Daniel Okoye,+2348012345678,34.055500,-118.246800,,dispatched
+RPT0027,"Small landslide covering cycle lane after heavy rain","Hillside Rd near Quarry",2026-07-20T06:50:00,Road Damage,Medium,Zoe Brown,+447700123456,34.066000,-118.261000,,pending
+RPT0028,"Rodent infestation in alley behind restaurants","Food District Alley",2026-07-08T11:05:00,Waste Management,Medium,Kenji Watanabe,+819012345678,34.053500,-118.244200,,pending
+RPT0029,"Community center generator failed during blackout","Community Center Generator Room",2026-07-17T23:00:00,Power Outage,High,Fatima Zahra,+212600123456,34.049000,-118.247500,,acknowledged
+RPT0030,"Contaminated water reported after chemical spill upstream","Upper River Intake",2026-07-18T08:30:00,Water Supply,Critical,Igor Petrov,+79031234567,34.068000,-118.268000,,dispatched
+RPT0031,"Road sinkhole forming near bus stop","Oak Blvd by 12th Stop",2026-07-15T17:20:00,Road Damage,Critical,Karen White,+15559876543,34.052900,-118.243100,,dispatched
+RPT0032,"Fly-tipping of construction waste blocking footpath","Granite Way footpath",2026-07-06T09:40:00,Waste Management,Medium,Samuel Green,+447912345678,34.044500,-118.248500,,pending
+RPT0033,"Power lines sparking and hissing after pole hit by vehicle","Harbor Rd by Dock 4",2026-07-05T02:00:00,Power Outage,Critical,Nadia Petrova,+380501234567,34.060500,-118.257000,,dispatched
+RPT0034,"Small floodwater pooling on main walking route; slippery","Promenade North",2026-07-02T14:10:00,Flooding,Low,Bruno Silva,+5511987654321,34.047500,-118.246200,,pending
+RPT0035,"Illegal sewage discharge from construction site into river","Construction Site A",2026-07-03T07:25:00,Water Supply,High,Amrita Singh,+919812345678,34.064000,-118.263000,,acknowledged
+RPT0036,"Street vendor stall collapsed blocking sidewalk","Market St & 4th",2026-07-01T11:55:00,Public Safety,Medium,Leonardo Russo,+390661234567,34.058200,-118.249800,,pending
+RPT0037,"Broken storm drain grate causing tripping hazard","Willow Lane near Condo 5",2026-07-04T08:05:00,Road Damage,Low,Hannah Schmidt,+4915212345678,34.050800,-118.244300,,pending
+RPT0038,"Several households boiling water due to contamination warning","Greenfield Estate",2026-07-07T19:30:00,Water Supply,High,Mike Johnson,+12223334444,34.061000,-118.259000,,acknowledged
+RPT0039,"Large pile of untreated waste blocking alley; swarms of flies","Old Town Alley",2026-07-09T13:20:00,Waste Management,High,Clara Nguyen,+84123456789,34.046800,-118.243900,,pending
+RPT0040,"Burst water main causing rapid flooding of lower flats","Riverside Flats Block C",2026-07-20T01:15:00,Flooding,Critical,Samuel Thompson,+447712345678,34.067500,-118.262500,,dispatched
+RPT1784716866,There was an armed robbery in my location at aba.,,2026-07-22T11:41:06.538306,Public Safety,Nwabuko Micheal,08130390282,,,,pending,High
+RPT1784716876,There was an armed robbery in my location at aba.,,2026-07-22T11:41:16.257092,Public Safety,Nwabuko Micheal,08130390282,,,,pending,High
+RPT1784717230,There was a heavy rain yesterday and the drainage system is blocked thereby causing flood.,aba,2026-07-22T11:47:10.031874,Flooding,Elizabeth Clinthon,07037311584,,,,pending,Medium
+RPT1784717414,there is no light,owerri,2026-07-22T11:50:14.876613,Power Outage,bobby,0703731176,,,,pending,High
