@@ -45,15 +45,20 @@ def send_notification(report: dict, severity: str):
     ]
     body = "\n".join(body_lines)
 
+    smtp_host = os.environ.get("SMTP_HOST") or st.secrets.get("SMTP_HOST")
+    smtp_port = os.environ.get("SMTP_PORT") or st.secrets.get("SMTP_PORT")
+    smtp_user = os.environ.get("SMTP_USER") or st.secrets.get("SMTP_USER")
+    smtp_password = os.environ.get("SMTP_PASSWORD") or st.secrets.get("SMTP_PASSWORD")
+
     try:
         send_email_smtp(
             subject=subject,
             body=body,
             recipient=recipient,
-            smtp_host=st.secrets.get("SMTP_HOST"),
-            smtp_port=st.secrets.get("SMTP_PORT"),
-            smtp_user=st.secrets.get("SMTP_USER"),
-            smtp_password=st.secrets.get("SMTP_PASSWORD"),
+            smtp_host=smtp_host,
+            smtp_port=smtp_port,
+            smtp_user=smtp_user,
+            smtp_password=smtp_password,
         )
         return True, f"Email sent to {recipient}"
     except Exception as e:
