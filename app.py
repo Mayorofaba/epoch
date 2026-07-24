@@ -46,7 +46,15 @@ def send_notification(report: dict, severity: str):
     body = "\n".join(body_lines)
 
     try:
-        send_email_smtp(subject=subject, body=body, recipient=recipient)
+        send_email_smtp(
+            subject=subject,
+            body=body,
+            recipient=recipient,
+            smtp_host=st.secrets.get("SMTP_HOST"),
+            smtp_port=st.secrets.get("SMTP_PORT"),
+            smtp_user=st.secrets.get("SMTP_USER"),
+            smtp_password=st.secrets.get("SMTP_PASSWORD"),
+        )
         return True, f"Email sent to {recipient}"
     except Exception as e:
         return False, str(e)
